@@ -1,2 +1,2 @@
 # chip_8
-Making a Chip * emulator
+Making a Chip 8 emulator
